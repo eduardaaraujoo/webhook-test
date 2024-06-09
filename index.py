@@ -6,7 +6,7 @@ link = "https://webhook.site/70d97d9e-20a3-41bb-ab54-8002a1046029"
 
 dicionario = {
     "nome": "Eduarda",
-    "valor": 76,
+    "valor": 96,
     "parcelas": 3,
 }
 
